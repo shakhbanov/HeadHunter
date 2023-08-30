@@ -1,8 +1,8 @@
 # Парсер вакансий HeadHunter
 
-![GitHub](https://img.shields.io/github/license/shakhbanov/hh-parser)
-![GitHub last commit](https://img.shields.io/github/last-commit/shakhbanov/hh-parser)
-![GitHub issues](https://img.shields.io/github/issues-raw/shakhbanov/hh-parser)
+![GitHub](https://img.shields.io/github/license/shakhbanov/HeadHunter)
+![GitHub last commit](https://img.shields.io/github/last-commit/shakhbanov/HeadHunter)
+![GitHub issues](https://img.shields.io/github/issues-raw/shakhbanov/HeadHunter)
 
 Парсер вакансий HeadHunter - это мощный инструмент для автоматического сбора и анализа данных о вакансиях с популярного ресурса HeadHunter. Независимо от того, нужны ли вам данные для исследований, аналитики или поиска новой работы, этот парсер поможет вам получить доступ к актуальной информации о вакансиях с минимальными усилиями.
 
